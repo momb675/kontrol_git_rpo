@@ -103,7 +103,7 @@ markdown
 
 ### 7. Выполнение Fetch / Pull
 ![07](screenshots/07_fetch_or_pull.png)
-
+Изменение, сделанное через GitHub
 ### 8. Итоговая история в Git Graph
 ![08](screenshots/08_final_git_graph.png)
 
