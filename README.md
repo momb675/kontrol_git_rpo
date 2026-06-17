@@ -92,11 +92,6 @@
 
 ### 6. Результат merge
 ![06](screenshots/06_merge_completed.png)
-
-### 7. Выполнение Fetch / Pull
-![07](screenshots/07_fetch_or_pull.png)
-
-### 8. Итоговая история в Git Graph
 markdown
 ## Что я понял(а) про .gitignore
 
@@ -105,6 +100,12 @@ markdown
 - Логи `*.log` обычно не нужны в репозитории.
 - Папки `venv/` и `.venv/` не добавляют в Git, потому что их можно создать заново.
 - Перед коммитом нужно проверять Source Control.
+
+### 7. Выполнение Fetch / Pull
+![07](screenshots/07_fetch_or_pull.png)
+
+### 8. Итоговая история в Git Graph
+![08](screenshots/08_final_git_graph.png)
 
 ## Вывод
 
